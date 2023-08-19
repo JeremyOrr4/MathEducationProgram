@@ -1,0 +1,28 @@
+Welcome to an adding tuttorial!
+
+We will be only adding with numbers with one or two digits.
+
+Firstly, to add take your two numbers and line them up so each colum lines up perfectly. The onese with the ones and tens  with tens.
+
+Here is an example
+ 
+         9
+       + 2
+----------------
+       =
+or
+
+        10
+      + 14
+----------------
+       =
+
+Now we add each colum together to get the answer!
+
+For example 13 + 3. We add the ones coloum to get 6 and the tens to get 1. So it equals 16.
+
+An exception is when a coloum equals 10>=, we add the 1 to the next colum and bring down the ones comlum.
+
+
+
+	

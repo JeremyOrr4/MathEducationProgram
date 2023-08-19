@@ -1,0 +1,36 @@
+Welcome to a subtracting tutorial.
+
+We will be only adding with numbers with one or two digits.
+
+Firstly, to add take your two numbers and line them up so each colum lines up perfectly. The onese with the ones and tens  with tens.
+
+Here is an example
+ 
+         4
+       - 2
+----------------
+       =
+or
+
+        18
+      - 12
+----------------
+       =
+
+Now we subtract each coloum together to get the answer!
+
+Note, if the top number is smaller then the bottom, simply flip it, find the answer and then add a negitive to it.
+
+Like this
+
+        5
+      - 9
+----------------
+       =
+
+        9
+      - 5
+----------------
+       = 4
+
+It equals -4!

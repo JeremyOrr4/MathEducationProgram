@@ -1,0 +1,7 @@
+Welcome, this is how you find the midpoint of a line.
+
+First you have your two points. Example (x1,y1) and (x2,y2).
+
+The mid point is found with ((x1 + x2)/2 , (y1 + y2)/2).
+
+Plug in the points and solve.

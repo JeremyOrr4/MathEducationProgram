@@ -1,0 +1,17 @@
+Welcome to a Ratios tutorial.
+
+This will be very easy and will only be working with ratios that are multiples of each other.
+
+Lets start with a ratio of 1:5. We are not trying to find x using this given ratio and are given x:10.
+
+Well, since we know 5x2 is equal to 10, we must now multiply 1 by 2 to get our x answer.
+
+An example:
+
+Given ratio: 20:25.
+
+Find x: x:50.
+
+Since 25 x 2 = 50, 20 x 2 must equal x.
+
+x = 40.

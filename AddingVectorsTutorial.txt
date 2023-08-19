@@ -1,0 +1,11 @@
+Welcome to an adding vectors tutorial.
+
+To add two vectors, all you have to do is add the x componets with each other, y componets with each other, z componets with each other.
+
+An example:
+
+[1,2,3] + [3,4,1] = [?,?,?]
+
+= [1+3,2+4,3+1]
+
+= [4,6,4]

@@ -1,0 +1,7 @@
+Welcome this is how you find the length of a line.
+
+First you take have two points. (x1,y1) and (x2,y2).
+
+Here is the equation: Squrt((x2-x1)^2 + (y2-y1)^2)
+
+Plug in the x's and y's and solve to get the line.
